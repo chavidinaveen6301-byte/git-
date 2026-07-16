@@ -121,6 +121,11 @@ The dashboard helped uncover several key business insights:
 - Data Visualization
 
 ---
+-- dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bef9af6e-e162-4ee9-aac0-a43d03f93018" />
+
+-- dashboard 2
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a24e54-9911-48da-b032-8feb5cd7c654" />
 
 
 # What I Learned
