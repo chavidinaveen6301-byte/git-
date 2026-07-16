@@ -122,10 +122,11 @@ The dashboard helped uncover several key business insights:
 
 ---
 -- dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bef9af6e-e162-4ee9-aac0-a43d03f93018" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a71f031-45dc-4c55-af8f-962c2a73dec1" />
 
 -- dashboard 2
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a24e54-9911-48da-b032-8feb5cd7c654" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3dd8cee-de2d-488a-81a7-9bca0c3dce5f" />
+
 
 
 # What I Learned
